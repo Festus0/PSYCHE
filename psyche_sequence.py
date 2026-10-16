@@ -1,4 +1,4 @@
-
+# This is a PSYCHE pulse seq file
 # Constants
 cnst20 = 10  # Desired flip angle for PSYCHE pulse element (degree)
 cnst21 = 10000  # Bandwidth of each chirp in PSYCHE pulse element (Hz)
